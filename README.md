@@ -1,6 +1,3 @@
-> [!CAUTION]
-> This project is no longer maintained.
-
 # Jenkins
 
 This is a Node.js client for [Jenkins](http://jenkins-ci.org/).
